@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+, "src/components/layouts/Footer.js", "src/components/layouts/Header.js", "src/components/layouts/Layout.js", "src/components/layouts/Page.js", "src/components/BigSection.js", "src/components/LogosSection.js", "src/components/ContactSection.js", "src/components/FeatureBlock.js", "src/components/FeatureBlocksContainer.js", "src/components/FeatureContainer.js", "src/components/HeroSection.js", "src/components/Link.js", "src/components/TestimonialBlock.js", "src/components/TestimonialSection.js", "src/data/companies.js", "src/data/testimonials.js", "src/pages/_app.js", "src/pages/_document.js", "src/pages/index.js", "src/pages/page2.js", "src/theme.js"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "auth_form": "Auth Form sssssss",
+  "auth_form_subtitle": "Enter the artwork id and authentication password and press \"Verify\"",
+  "id": "IO",
+  "password": "Password",
+  "verify": "Verify",
+  "invalid_credentials_try_again.": "Invalid Credentials. Try again."
+}
